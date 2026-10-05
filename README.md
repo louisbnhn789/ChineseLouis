@@ -1,24 +1,27 @@
-# ChineseLouis 中文
+# ChineseLouis 2.0
 
-Ứng dụng Android học tiếng Trung từ số 0, giao diện tiếng Việt. **182 ngày / 26 tuần, 30 phút mỗi ngày, 311 từ và cụm từ khác nhau.**
+Ứng dụng học tiếng Trung offline 30 phút/ngày, giao diện tiếng Việt, có lộ trình 182 ngày.
+
+## Cập nhật 2.0
+
+- Mục **Ngữ pháp** riêng: 40 bài từ cơ bản đến ứng dụng, có công thức, cách dùng, lỗi dễ nhầm, 80 câu ví dụ có audio và 80 câu bài tập kèm giải thích. Ví dụ tập trung vào công việc trong nhà máy.
+- Mục **Kho từ**: thêm chính xác 1.000 mục từ/cụm từ, không trùng chữ bản ngữ trong kho cũ. Tổng cộng 1311 mục học riêng biệt, gồm mục học của lộ trình cũ.
+- Các chủ đề thông dụng: nhận ca, thao tác, vật liệu, linh kiện điện tử, dụng cụ, lắp ráp, ép nhựa/mạ, máy móc, bảo trì, chất lượng, đo kiểm, RF, độ tin cậy, ESD, kho, đóng gói, xuất hàng, mua hàng, nhà cung cấp, họp, báo cáo, audit, bàn giao và sinh hoạt hằng ngày.
+- Tìm theo chữ bản ngữ, Pinyin, nghĩa tiếng Việt; lọc chủ đề; nghe từng mục; đánh dấu đã nhớ hoặc đưa vào ôn tập; kiểm tra nghe/đọc kho từ 12 câu.
+- Gợi ý bài ngữ pháp theo ngày sau giai đoạn phát âm nhập môn. Chọn học một cấu trúc hoặc 5–10 mục từ trong phần 10 phút học mới; không cần học dồn cả kho từ.
+
+## Offline và dữ liệu
+
+Bài học, ngữ pháp, ví dụ và audio đều nằm trong APK. Không xin quyền Internet. Micro chỉ dùng khi ghi âm; mỗi bản ghi mới thay bản trước. Tiến độ/điểm nằm trên điện thoại. Không có chấm phát âm hoặc nét viết tự động. Nội dung và câu ví dụ tự biên soạn; audio tổng hợp gTTS; Pinyin tạo bằng pypinyin, đối chiếu audio khi học từ đa âm. Ví dụ kỹ thuật không thay thế WI hoặc tiêu chuẩn nhà máy.
 
 ## Cài đặt
 
-Mở tab **Actions → Build ChineseLouis APK → lần chạy màu xanh → Artifacts → ChineseLouis-APK**. Giải nén ZIP, chép `ChineseLouis.apk` sang điện thoại và mở để cài. Cho phép cài ứng dụng từ nguồn đó khi Android hỏi. Hỗ trợ Android 8 trở lên. Đây là APK tự luyện ký debug, chưa phát hành trên Play Store. Chữ ký debug của các lần dựng có thể khác; khi cập nhật nếu Android báo xung đột chữ ký, không gỡ bản cũ nếu còn muốn giữ tiến độ.
+Android 8 trở lên. Tải APK ở **Actions → lần chạy thành công → Artifacts → ChineseLouis-APK**, giải nén và mở APK trên điện thoại.
 
-## Chức năng
-
-- Lịch học 182 ngày: ôn 5 phút, học mới 10 phút, nghe 8 phút, nói 5 phút, viết 2 phút.
-- Pinyin, thanh điệu, từ vựng, câu mẫu có nghĩa tiếng Việt và audio Mandarin được đóng gói trong APK.
-- Ghi âm tối đa 90 giây, phát lại để tự so với mẫu. Mỗi lần ghi thay bản trước.
-- Luyện hình chữ bằng tay trên màn hình. Chưa có hướng dẫn thứ tự nét hoặc chấm tự động.
-- Kiểm tra đọc và nghe 12 câu, lưu điểm cao nhất; ôn các từ trả lời sai. Ngày thứ 7 của mỗi tuần ôn tối đa 4 tuần gần nhất; ngày cuối ôn toàn khóa.
-- Lưu tiến độ trên điện thoại; học không cần tài khoản hoặc Internet. Không xin quyền Internet. Quyền micro được hỏi khi ghi âm. Gỡ ứng dụng sẽ xóa dữ liệu học.
-
-## Nội dung và giới hạn
-
-Nội dung tự biên soạn cho tự học cơ bản, không sao chép HSK Standard Course hoặc audio thương mại. Có thể học bổ sung bằng HSK Standard Course 1 mua hợp pháp. Audio tổng hợp qua gTTS ở thời điểm dựng (cần mạng trên máy dựng), sau đó được đóng gói để chạy offline. Không có nhận dạng hoặc chấm phát âm tự động. Bài kiểm tra không phải kỳ thi/chứng chỉ HSK.
+ChineseLouis 2 dùng mã ứng dụng mới để cài song song với bản 1, vì bản 1 không lưu khóa ký. Không cần gỡ bản 1. Tiến độ bản 1 không tự chuyển sang bản 2. Khóa ký của bản 2 được lưu cache cho các bản dựng sau.
 
 ## Dựng và kiểm tra
 
-GitHub Actions tự dựng khi có commit lên `main`. Dùng JDK 17, Gradle 8.9, AGP 8.7.3, Android SDK 35. Quy trình kiểm tra cấu trúc 26 tuần / 182 ngày, tạo và xác nhận đủ audio, dựng APK, chạy Android Lint, xác nhận chữ ký và audio trong APK. File APK tải ở Artifacts sau khi quy trình thành công. Chưa kiểm thử trên điện thoại thật; hãy kiểm tra nghe, ghi âm và lưu tiến độ ở chế độ máy bay sau khi cài.
+Chạy `pip install pypinyin==0.53.0 gTTS==2.5.4`, `python curriculum.py`, `python expand_course.py`, `python generate_audio.py`, rồi `gradle :app:assembleDebug :app:lintDebug` với JDK 17 / Gradle 8.9 / Android SDK 35. `course.json` trong APK được sinh bởi quy trình này; file nền trong Git không chứa toàn bộ dữ liệu mở rộng.
+
+CI xác nhận 1.000 mục bổ sung không trùng, 40 bài ngữ pháp, đáp án bài tập, audio đầy đủ, chữ ký APK, và Android Lint. APK ký debug dùng để tự luyện; chưa phát hành Play Store và chưa kiểm thử trên điện thoại thật.
