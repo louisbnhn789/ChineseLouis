@@ -25,3 +25,5 @@ ChineseLouis 2 dùng mã ứng dụng mới để cài song song với bản 1, 
 Chạy `pip install pypinyin==0.53.0 gTTS==2.5.4`, `python curriculum.py`, `python expand_course.py`, `python generate_audio.py`, rồi `gradle :app:assembleDebug :app:lintDebug` với JDK 17 / Gradle 8.9 / Android SDK 35. `course.json` trong APK được sinh bởi quy trình này; file nền trong Git không chứa toàn bộ dữ liệu mở rộng.
 
 CI xác nhận 1.000 mục bổ sung không trùng, 40 bài ngữ pháp, đáp án bài tập, audio đầy đủ, chữ ký APK, và Android Lint. APK ký debug dùng để tự luyện; chưa phát hành Play Store và chưa kiểm thử trên điện thoại thật.
+
+Khóa ký phát triển bản 2 được tạo ở đường dẫn riêng và lưu cache trong GitHub Actions; không đưa vào Git. Cache có thể bị hết hạn; khi cập nhật sau này phải kiểm tra chữ ký trước.
