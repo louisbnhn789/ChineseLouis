@@ -1,0 +1,3333 @@
+{
+  "weeks": [
+    {
+      "title": "Pinyin và thanh điệu",
+      "note": "Âm tiết gồm thanh mẫu, vận mẫu và thanh điệu. Thanh 1 cao ngang; thanh 2 đi lên; thanh 3 thấp rồi lên; thanh 4 đi xuống; thanh nhẹ ngắn. Nghe mẫu trước khi đọc, không đọc Pinyin như tiếng Việt.",
+      "words": [
+        {
+          "h": "妈",
+          "p": "mā",
+          "v": "mẹ",
+          "a": "e331d617554b0f37"
+        },
+        {
+          "h": "麻",
+          "p": "má",
+          "v": "cây gai",
+          "a": "2461475506683975"
+        },
+        {
+          "h": "马",
+          "p": "mǎ",
+          "v": "ngựa",
+          "a": "a25ee73c98d16172"
+        },
+        {
+          "h": "骂",
+          "p": "mà",
+          "v": "mắng",
+          "a": "45d31d7e4c504b6d"
+        },
+        {
+          "h": "吗",
+          "p": "ma",
+          "v": "trợ từ hỏi",
+          "a": "5ac1612110def2c4"
+        },
+        {
+          "h": "八",
+          "p": "bā",
+          "v": "tám",
+          "a": "2c467d3673926b20"
+        },
+        {
+          "h": "爸",
+          "p": "bà",
+          "v": "bố",
+          "a": "e601bb9113eb5e57"
+        },
+        {
+          "h": "你",
+          "p": "nǐ",
+          "v": "bạn",
+          "a": "a0c7716669b5ded0"
+        },
+        {
+          "h": "好",
+          "p": "hǎo",
+          "v": "tốt",
+          "a": "f867f34178594f89"
+        },
+        {
+          "h": "我",
+          "p": "wǒ",
+          "v": "tôi",
+          "a": "b70bb4acc0484cf0"
+        },
+        {
+          "h": "不",
+          "p": "bù",
+          "v": "không",
+          "a": "b02dfe2160c687c2"
+        },
+        {
+          "h": "是",
+          "p": "shì",
+          "v": "là",
+          "a": "b5141d3d19e9a048"
+        }
+      ],
+      "sentence": {
+        "h": "你好！",
+        "p": "Nǐ hǎo!",
+        "v": "Xin chào!",
+        "a": "ecde115cdca96a1a"
+      }
+    },
+    {
+      "title": "Chào hỏi",
+      "note": "你好 là lời chào thông dụng. 你好吗？ là câu hỏi. Hai thanh 3 liền nhau: thanh 3 đầu thường đọc gần thanh 2, như 你好. Pinyin vẫn ghi thanh gốc.",
+      "words": [
+        {
+          "h": "您好",
+          "p": "nín hǎo",
+          "v": "xin chào lịch sự",
+          "a": "609bc0751d56eb46"
+        },
+        {
+          "h": "早上",
+          "p": "zǎoshang",
+          "v": "buổi sáng",
+          "a": "c6fe2eb2c986c383"
+        },
+        {
+          "h": "晚上",
+          "p": "wǎnshang",
+          "v": "buổi tối",
+          "a": "a9b1124b34615118"
+        },
+        {
+          "h": "再见",
+          "p": "zàijiàn",
+          "v": "tạm biệt",
+          "a": "c90a1cdb561d0269"
+        },
+        {
+          "h": "谢谢",
+          "p": "xièxie",
+          "v": "cảm ơn",
+          "a": "1bf7ac688560d3b0"
+        },
+        {
+          "h": "不客气",
+          "p": "bú kèqi",
+          "v": "không có gì",
+          "a": "2313dbbb686a3b37"
+        },
+        {
+          "h": "对不起",
+          "p": "duìbuqǐ",
+          "v": "xin lỗi",
+          "a": "73cc81388c9bd644"
+        },
+        {
+          "h": "没关系",
+          "p": "méi guānxi",
+          "v": "không sao",
+          "a": "e8b44a5169b8ab96"
+        },
+        {
+          "h": "请",
+          "p": "qǐng",
+          "v": "mời / xin",
+          "a": "88d5840fab773af6"
+        },
+        {
+          "h": "您",
+          "p": "nín",
+          "v": "ngài / bạn lịch sự",
+          "a": "9bbfbbc76f7ac5e0"
+        },
+        {
+          "h": "很",
+          "p": "hěn",
+          "v": "rất",
+          "a": "f2b91797ea3a7171"
+        },
+        {
+          "h": "也",
+          "p": "yě",
+          "v": "cũng",
+          "a": "658605835bfc7ff8"
+        }
+      ],
+      "sentence": {
+        "h": "你好！你好吗？我很好，谢谢！",
+        "p": "Nǐ hǎo! Nǐ hǎo ma? Wǒ hěn hǎo, xièxie!",
+        "v": "Xin chào! Bạn khỏe không? Tôi khỏe, cảm ơn!",
+        "a": "d64c6f319d0ad8f0"
+      }
+    },
+    {
+      "title": "Giới thiệu bản thân",
+      "note": "我叫 + tên: Tôi tên là... 你叫什么名字？ hỏi tên. 什么 đặt tại vị trí thông tin cần hỏi. Thay tên trong mẫu bằng tên của bạn.",
+      "words": [
+        {
+          "h": "叫",
+          "p": "jiào",
+          "v": "tên là / gọi",
+          "a": "b71852847d38252f"
+        },
+        {
+          "h": "名字",
+          "p": "míngzi",
+          "v": "tên",
+          "a": "6773310492a96fcf"
+        },
+        {
+          "h": "什么",
+          "p": "shénme",
+          "v": "cái gì",
+          "a": "c1b52e0e64a33dea"
+        },
+        {
+          "h": "人",
+          "p": "rén",
+          "v": "người",
+          "a": "50f5d65d57290f75"
+        },
+        {
+          "h": "中国",
+          "p": "Zhōngguó",
+          "v": "Trung Quốc",
+          "a": "f0e9521611bb290d"
+        },
+        {
+          "h": "越南",
+          "p": "Yuènán",
+          "v": "Việt Nam",
+          "a": "193e6ef53d649254"
+        },
+        {
+          "h": "学生",
+          "p": "xuésheng",
+          "v": "học sinh",
+          "a": "13a58ec2074e014a"
+        },
+        {
+          "h": "老师",
+          "p": "lǎoshī",
+          "v": "giáo viên",
+          "a": "c9a31a3f670b7f99"
+        },
+        {
+          "h": "朋友",
+          "p": "péngyou",
+          "v": "bạn bè",
+          "a": "677aad1a0ee44cd6"
+        },
+        {
+          "h": "认识",
+          "p": "rènshi",
+          "v": "quen biết",
+          "a": "1c17dc403125481f"
+        },
+        {
+          "h": "高兴",
+          "p": "gāoxìng",
+          "v": "vui",
+          "a": "5fcaf1452472773f"
+        },
+        {
+          "h": "姓",
+          "p": "xìng",
+          "v": "họ",
+          "a": "978d056de9ca8731"
+        }
+      ],
+      "sentence": {
+        "h": "我叫路易。我是越南人。很高兴认识你。",
+        "p": "Wǒ jiào Lùyì. Wǒ shì Yuènán rén. Hěn gāoxìng rènshi nǐ.",
+        "v": "Tôi tên Louis. Tôi là người Việt Nam. Rất vui được biết bạn.",
+        "a": "c2984f4f74232c89"
+      }
+    },
+    {
+      "title": "Số và tuổi",
+      "note": "Số 11 là 十一, 20 là 二十, 21 là 二十一. 我今年...岁 nói tuổi. 几 thường hỏi số lượng nhỏ. 两 thường dùng trước lượng từ, như 两个人.",
+      "words": [
+        {
+          "h": "一",
+          "p": "yī",
+          "v": "một",
+          "a": "51a75f4634dfa859"
+        },
+        {
+          "h": "二",
+          "p": "èr",
+          "v": "hai",
+          "a": "084b42f6e95e4e65"
+        },
+        {
+          "h": "三",
+          "p": "sān",
+          "v": "ba",
+          "a": "a4c3313deb180960"
+        },
+        {
+          "h": "四",
+          "p": "sì",
+          "v": "bốn",
+          "a": "754a9d5828d502f1"
+        },
+        {
+          "h": "五",
+          "p": "wǔ",
+          "v": "năm",
+          "a": "c9b87f516a38ea36"
+        },
+        {
+          "h": "六",
+          "p": "liù",
+          "v": "sáu",
+          "a": "de07b5383874b2a3"
+        },
+        {
+          "h": "七",
+          "p": "qī",
+          "v": "bảy",
+          "a": "1b0542878c67f6cd"
+        },
+        {
+          "h": "九",
+          "p": "jiǔ",
+          "v": "chín",
+          "a": "df897da6e02ecd30"
+        },
+        {
+          "h": "十",
+          "p": "shí",
+          "v": "mười",
+          "a": "fc7edd399a5c4b93"
+        },
+        {
+          "h": "岁",
+          "p": "suì",
+          "v": "tuổi",
+          "a": "43e84a7a98a4fc35"
+        },
+        {
+          "h": "今年",
+          "p": "jīnnián",
+          "v": "năm nay",
+          "a": "3a7ddf6c862aa15c"
+        },
+        {
+          "h": "几",
+          "p": "jǐ",
+          "v": "mấy",
+          "a": "bb0d9c666fa88969"
+        }
+      ],
+      "sentence": {
+        "h": "你今年几岁？我今年四十一岁。",
+        "p": "Nǐ jīnnián jǐ suì? Wǒ jīnnián sìshíyī suì.",
+        "v": "Năm nay bạn bao nhiêu tuổi? Năm nay tôi 41 tuổi.",
+        "a": "d222c53308e8719c"
+      }
+    },
+    {
+      "title": "Gia đình",
+      "note": "我的... là ... của tôi. 家有...: gia đình có... 个 là lượng từ thông dụng. Dùng 两个人 cho hai người. Có thể lược 的 trong 我的妈妈 thành 我妈妈.",
+      "words": [
+        {
+          "h": "妈妈",
+          "p": "māma",
+          "v": "mẹ",
+          "a": "45f1364f08aed165"
+        },
+        {
+          "h": "爸爸",
+          "p": "bàba",
+          "v": "bố",
+          "a": "d45ce71dd359d0e7"
+        },
+        {
+          "h": "哥哥",
+          "p": "gēge",
+          "v": "anh trai",
+          "a": "6cf70b7c4fa3c4b4"
+        },
+        {
+          "h": "姐姐",
+          "p": "jiějie",
+          "v": "chị gái",
+          "a": "d25622289ef32c86"
+        },
+        {
+          "h": "弟弟",
+          "p": "dìdi",
+          "v": "em trai",
+          "a": "cf0af76ceb03b3ad"
+        },
+        {
+          "h": "妹妹",
+          "p": "mèimei",
+          "v": "em gái",
+          "a": "dd663fa55681eed7"
+        },
+        {
+          "h": "儿子",
+          "p": "érzi",
+          "v": "con trai",
+          "a": "9231b93fd67f48d7"
+        },
+        {
+          "h": "女儿",
+          "p": "nǚ'ér",
+          "v": "con gái",
+          "a": "115425d59e4ae5f5"
+        },
+        {
+          "h": "家",
+          "p": "jiā",
+          "v": "nhà / gia đình",
+          "a": "c8ae97be80f3867c"
+        },
+        {
+          "h": "有",
+          "p": "yǒu",
+          "v": "có",
+          "a": "90ce0f66f09488f2"
+        },
+        {
+          "h": "个",
+          "p": "gè",
+          "v": "lượng từ chung",
+          "a": "3a116815bc9da10d"
+        },
+        {
+          "h": "两",
+          "p": "liǎng",
+          "v": "hai trước lượng từ",
+          "a": "83385d2edafe28d4"
+        }
+      ],
+      "sentence": {
+        "h": "我家有四个人。这是我妈妈。",
+        "p": "Wǒ jiā yǒu sì ge rén. Zhè shì wǒ māma.",
+        "v": "Nhà tôi có bốn người. Đây là mẹ tôi.",
+        "a": "3471c83ecdbc09c8"
+      }
+    },
+    {
+      "title": "Ngày tháng",
+      "note": "Thứ tự ngày: năm, tháng, ngày. 今天星期几？ hỏi thứ. 日期 dùng số đếm, không dùng số thứ tự. Đọc ngày sinh của chính mình.",
+      "words": [
+        {
+          "h": "今天",
+          "p": "jīntiān",
+          "v": "hôm nay",
+          "a": "d5f5a7a010731feb"
+        },
+        {
+          "h": "明天",
+          "p": "míngtiān",
+          "v": "ngày mai",
+          "a": "b1d841b978fb524c"
+        },
+        {
+          "h": "昨天",
+          "p": "zuótiān",
+          "v": "hôm qua",
+          "a": "0c184871f658375a"
+        },
+        {
+          "h": "年",
+          "p": "nián",
+          "v": "năm",
+          "a": "62ef900a8f5d5bff"
+        },
+        {
+          "h": "月",
+          "p": "yuè",
+          "v": "tháng",
+          "a": "1625179badc027f0"
+        },
+        {
+          "h": "号",
+          "p": "hào",
+          "v": "ngày trong tháng",
+          "a": "f9376c98b6cb1cb4"
+        },
+        {
+          "h": "星期",
+          "p": "xīngqī",
+          "v": "tuần / thứ",
+          "a": "c398134d7d1f58e7"
+        },
+        {
+          "h": "星期一",
+          "p": "xīngqīyī",
+          "v": "thứ hai",
+          "a": "56451fdf19c23fb6"
+        },
+        {
+          "h": "星期日",
+          "p": "xīngqīrì",
+          "v": "chủ nhật",
+          "a": "7e06f3148f70f58c"
+        },
+        {
+          "h": "生日",
+          "p": "shēngrì",
+          "v": "sinh nhật",
+          "a": "8f5ecd9fc26937ef"
+        },
+        {
+          "h": "时候",
+          "p": "shíhou",
+          "v": "lúc",
+          "a": "5484678be4ef7c24"
+        },
+        {
+          "h": "哪",
+          "p": "nǎ",
+          "v": "nào",
+          "a": "3f3e286143b37030"
+        }
+      ],
+      "sentence": {
+        "h": "今天星期一。你的生日是几月几号？",
+        "p": "Jīntiān xīngqīyī. Nǐ de shēngrì shì jǐ yuè jǐ hào?",
+        "v": "Hôm nay thứ hai. Sinh nhật bạn là ngày mấy tháng mấy?",
+        "a": "20328d085f5f254f"
+      }
+    },
+    {
+      "title": "Giờ và lịch học",
+      "note": "Thời gian thường đặt trước động từ: 我晚上学习中文. 三点半 là 3 giờ rưỡi. 每天 + hoạt động nói thói quen.",
+      "words": [
+        {
+          "h": "现在",
+          "p": "xiànzài",
+          "v": "bây giờ",
+          "a": "43584f37c1f4932f"
+        },
+        {
+          "h": "点",
+          "p": "diǎn",
+          "v": "giờ",
+          "a": "08dddeac1319d6e8"
+        },
+        {
+          "h": "分",
+          "p": "fēn",
+          "v": "phút",
+          "a": "b6a993c256ef577a"
+        },
+        {
+          "h": "半",
+          "p": "bàn",
+          "v": "nửa",
+          "a": "f30071fa503a5928"
+        },
+        {
+          "h": "上午",
+          "p": "shàngwǔ",
+          "v": "buổi sáng",
+          "a": "298336ec2c0e2e37"
+        },
+        {
+          "h": "下午",
+          "p": "xiàwǔ",
+          "v": "buổi chiều",
+          "a": "af81dcf37aa86091"
+        },
+        {
+          "h": "中午",
+          "p": "zhōngwǔ",
+          "v": "buổi trưa",
+          "a": "5422a304a0bf193e"
+        },
+        {
+          "h": "每天",
+          "p": "měitiān",
+          "v": "mỗi ngày",
+          "a": "eea1694c235b5ddf"
+        },
+        {
+          "h": "学习",
+          "p": "xuéxí",
+          "v": "học",
+          "a": "2118cbc109880ac8"
+        },
+        {
+          "h": "中文",
+          "p": "Zhōngwén",
+          "v": "tiếng Trung",
+          "a": "72726d8818f69306"
+        },
+        {
+          "h": "时间",
+          "p": "shíjiān",
+          "v": "thời gian",
+          "a": "8b6ff498515bcc2f"
+        },
+        {
+          "h": "开始",
+          "p": "kāishǐ",
+          "v": "bắt đầu",
+          "a": "d2bb025a2e51c410"
+        }
+      ],
+      "sentence": {
+        "h": "我每天学习三十分钟中文。现在八点半。",
+        "p": "Wǒ měitiān xuéxí sānshí fēnzhōng Zhōngwén. Xiànzài bā diǎn bàn.",
+        "v": "Tôi học tiếng Trung 30 phút mỗi ngày. Bây giờ là 8 giờ rưỡi.",
+        "a": "e024150a88eff5b2"
+      }
+    },
+    {
+      "title": "Ăn uống",
+      "note": "我想吃... diễn đạt muốn ăn. 不 đọc bú trước thanh 4: 不是 bú shì. 一 đổi thanh trong lời nói tùy âm sau, Pinyin cơ bản vẫn có thể ghi yī.",
+      "words": [
+        {
+          "h": "吃",
+          "p": "chī",
+          "v": "ăn",
+          "a": "c814805bc6d0365a"
+        },
+        {
+          "h": "喝",
+          "p": "hē",
+          "v": "uống",
+          "a": "193632bffe7bd105"
+        },
+        {
+          "h": "水",
+          "p": "shuǐ",
+          "v": "nước",
+          "a": "327b54d04f71f212"
+        },
+        {
+          "h": "茶",
+          "p": "chá",
+          "v": "trà",
+          "a": "7e005ba311f86fa7"
+        },
+        {
+          "h": "咖啡",
+          "p": "kāfēi",
+          "v": "cà phê",
+          "a": "720ec669f15b87b1"
+        },
+        {
+          "h": "米饭",
+          "p": "mǐfàn",
+          "v": "cơm",
+          "a": "e233a13a49e51106"
+        },
+        {
+          "h": "面条",
+          "p": "miàntiáo",
+          "v": "mì",
+          "a": "0b5480e007c777a7"
+        },
+        {
+          "h": "菜",
+          "p": "cài",
+          "v": "món ăn / rau",
+          "a": "45f0c2d97be1214d"
+        },
+        {
+          "h": "水果",
+          "p": "shuǐguǒ",
+          "v": "trái cây",
+          "a": "27c180751ad60f8c"
+        },
+        {
+          "h": "苹果",
+          "p": "píngguǒ",
+          "v": "táo",
+          "a": "50537dab76505dfc"
+        },
+        {
+          "h": "想",
+          "p": "xiǎng",
+          "v": "muốn / nghĩ",
+          "a": "df0d25193874aa17"
+        },
+        {
+          "h": "杯",
+          "p": "bēi",
+          "v": "cốc",
+          "a": "c879f9d6cc989f54"
+        }
+      ],
+      "sentence": {
+        "h": "我想喝一杯茶，吃一点儿米饭。",
+        "p": "Wǒ xiǎng hē yī bēi chá, chī yīdiǎnr mǐfàn.",
+        "v": "Tôi muốn uống một cốc trà, ăn một ít cơm.",
+        "a": "dbb15afe606b8ee5"
+      }
+    },
+    {
+      "title": "Gọi món",
+      "note": "请给我...: xin cho tôi... 要 có thể diễn đạt muốn lấy. ...多少钱？ hỏi giá. Không thêm 吗 vào câu đã có từ hỏi như 什么、多少.",
+      "words": [
+        {
+          "h": "菜单",
+          "p": "càidān",
+          "v": "thực đơn",
+          "a": "4ce4cafdd0561280"
+        },
+        {
+          "h": "饭店",
+          "p": "fàndiàn",
+          "v": "nhà hàng",
+          "a": "74ff2d7e528aff0f"
+        },
+        {
+          "h": "服务员",
+          "p": "fúwùyuán",
+          "v": "nhân viên phục vụ",
+          "a": "cf80aba698b91219"
+        },
+        {
+          "h": "要",
+          "p": "yào",
+          "v": "muốn lấy / cần",
+          "a": "975f35218ed8782e"
+        },
+        {
+          "h": "给",
+          "p": "gěi",
+          "v": "cho",
+          "a": "6e55fb9d8a3dacc1"
+        },
+        {
+          "h": "鸡肉",
+          "p": "jīròu",
+          "v": "thịt gà",
+          "a": "d564e7d1c8e63e77"
+        },
+        {
+          "h": "牛肉",
+          "p": "niúròu",
+          "v": "thịt bò",
+          "a": "70099ea01925d3da"
+        },
+        {
+          "h": "鱼",
+          "p": "yú",
+          "v": "cá",
+          "a": "ac3069de682490ac"
+        },
+        {
+          "h": "鸡蛋",
+          "p": "jīdàn",
+          "v": "trứng gà",
+          "a": "e9f5b71a472d27bb"
+        },
+        {
+          "h": "好吃",
+          "p": "hǎochī",
+          "v": "ngon",
+          "a": "0148aa8ffb7148d8"
+        },
+        {
+          "h": "一点儿",
+          "p": "yīdiǎnr",
+          "v": "một ít",
+          "a": "f9796aa1410a0474"
+        },
+        {
+          "h": "买单",
+          "p": "mǎidān",
+          "v": "thanh toán bữa ăn",
+          "a": "811fe0719f385336"
+        }
+      ],
+      "sentence": {
+        "h": "服务员，请给我菜单。我想要面条。",
+        "p": "Fúwùyuán, qǐng gěi wǒ càidān. Wǒ xiǎng yào miàntiáo.",
+        "v": "Bạn phục vụ, xin cho tôi thực đơn. Tôi muốn gọi mì.",
+        "a": "0f1b532b19d0bd1b"
+      }
+    },
+    {
+      "title": "Mua sắm và giá",
+      "note": "这... là ... này; 那... là ... kia. 块 dùng nói tiền tệ trong hội thoại. 太...了: quá... Không phải mọi 了 đều chỉ quá khứ.",
+      "words": [
+        {
+          "h": "买",
+          "p": "mǎi",
+          "v": "mua",
+          "a": "2cd2507d65de178f"
+        },
+        {
+          "h": "卖",
+          "p": "mài",
+          "v": "bán",
+          "a": "d998fc91a1724de6"
+        },
+        {
+          "h": "钱",
+          "p": "qián",
+          "v": "tiền",
+          "a": "0eb863c78da3e38b"
+        },
+        {
+          "h": "多少",
+          "p": "duōshao",
+          "v": "bao nhiêu",
+          "a": "fb8f01cb6d4be28b"
+        },
+        {
+          "h": "块",
+          "p": "kuài",
+          "v": "đồng / miếng",
+          "a": "36d89c8f512d8cce"
+        },
+        {
+          "h": "这",
+          "p": "zhè",
+          "v": "này",
+          "a": "d409ab2ab3f8a04e"
+        },
+        {
+          "h": "那",
+          "p": "nà",
+          "v": "kia",
+          "a": "5a2362a20207f453"
+        },
+        {
+          "h": "贵",
+          "p": "guì",
+          "v": "đắt",
+          "a": "0c9640c83aa92be3"
+        },
+        {
+          "h": "便宜",
+          "p": "piányi",
+          "v": "rẻ",
+          "a": "303a288691f82c62"
+        },
+        {
+          "h": "太",
+          "p": "tài",
+          "v": "quá",
+          "a": "e7ace7adf264b714"
+        },
+        {
+          "h": "商店",
+          "p": "shāngdiàn",
+          "v": "cửa hàng",
+          "a": "61f96c6aac6a0745"
+        },
+        {
+          "h": "东西",
+          "p": "dōngxi",
+          "v": "đồ vật",
+          "a": "b1813501860b58c2"
+        }
+      ],
+      "sentence": {
+        "h": "这个多少钱？太贵了！便宜一点儿吧。",
+        "p": "Zhège duōshao qián? Tài guì le! Piányi yīdiǎnr ba.",
+        "v": "Cái này bao nhiêu tiền? Đắt quá! Rẻ hơn một chút nhé.",
+        "a": "76a612d3aac91f4a"
+      }
+    },
+    {
+      "title": "Vị trí và chỉ đường",
+      "note": "在 + địa điểm: ở... 哪里 hỏi ở đâu. Danh từ + 左边/右边 diễn đạt vị trí. 请问 mở đầu câu hỏi lịch sự.",
+      "words": [
+        {
+          "h": "在",
+          "p": "zài",
+          "v": "ở / đang",
+          "a": "12404a0b63817240"
+        },
+        {
+          "h": "哪里",
+          "p": "nǎlǐ",
+          "v": "ở đâu",
+          "a": "90924eaa6dde0f68"
+        },
+        {
+          "h": "这里",
+          "p": "zhèlǐ",
+          "v": "ở đây",
+          "a": "467d6a749e06b07a"
+        },
+        {
+          "h": "那里",
+          "p": "nàlǐ",
+          "v": "ở kia",
+          "a": "ebdef08347f3dfaa"
+        },
+        {
+          "h": "左边",
+          "p": "zuǒbian",
+          "v": "bên trái",
+          "a": "6a0ef384c814c9e5"
+        },
+        {
+          "h": "右边",
+          "p": "yòubian",
+          "v": "bên phải",
+          "a": "0838dcc59823278c"
+        },
+        {
+          "h": "前面",
+          "p": "qiánmiàn",
+          "v": "phía trước",
+          "a": "ad0a0abeab6bedf6"
+        },
+        {
+          "h": "后面",
+          "p": "hòumiàn",
+          "v": "phía sau",
+          "a": "e59f6d90dead1883"
+        },
+        {
+          "h": "里面",
+          "p": "lǐmiàn",
+          "v": "bên trong",
+          "a": "0111930eba211e33"
+        },
+        {
+          "h": "外面",
+          "p": "wàimiàn",
+          "v": "bên ngoài",
+          "a": "eff32262244cd369"
+        },
+        {
+          "h": "旁边",
+          "p": "pángbiān",
+          "v": "bên cạnh",
+          "a": "bab67370c50a5808"
+        },
+        {
+          "h": "请问",
+          "p": "qǐngwèn",
+          "v": "xin hỏi",
+          "a": "42be23d8344a4971"
+        }
+      ],
+      "sentence": {
+        "h": "请问，商店在哪里？在饭店旁边。",
+        "p": "Qǐngwèn, shāngdiàn zài nǎlǐ? Zài fàndiàn pángbiān.",
+        "v": "Xin hỏi, cửa hàng ở đâu? Ở cạnh nhà hàng.",
+        "a": "61589cc8f87063e4"
+      }
+    },
+    {
+      "title": "Đi lại",
+      "note": "去 + địa điểm: đi đến... 坐 + phương tiện: đi bằng... 怎么去？ hỏi cách đi. 从 A 到 B: từ A đến B.",
+      "words": [
+        {
+          "h": "去",
+          "p": "qù",
+          "v": "đi",
+          "a": "99ae21ea6c39ccc1"
+        },
+        {
+          "h": "来",
+          "p": "lái",
+          "v": "đến",
+          "a": "6d8229118caa20c2"
+        },
+        {
+          "h": "回",
+          "p": "huí",
+          "v": "trở về",
+          "a": "6da3e5c03ac7e66c"
+        },
+        {
+          "h": "坐",
+          "p": "zuò",
+          "v": "ngồi / đi xe",
+          "a": "4247f1a43b8230cb"
+        },
+        {
+          "h": "车",
+          "p": "chē",
+          "v": "xe",
+          "a": "b1f8107ec8163500"
+        },
+        {
+          "h": "出租车",
+          "p": "chūzūchē",
+          "v": "taxi",
+          "a": "a009d2a251780ef1"
+        },
+        {
+          "h": "公交车",
+          "p": "gōngjiāochē",
+          "v": "xe buýt",
+          "a": "c7a3de26eb057205"
+        },
+        {
+          "h": "地铁",
+          "p": "dìtiě",
+          "v": "tàu điện ngầm",
+          "a": "b8466cd555e68992"
+        },
+        {
+          "h": "机场",
+          "p": "jīchǎng",
+          "v": "sân bay",
+          "a": "6a5347ac5f65e5be"
+        },
+        {
+          "h": "怎么",
+          "p": "zěnme",
+          "v": "thế nào",
+          "a": "5ee8091a38eee188"
+        },
+        {
+          "h": "到",
+          "p": "dào",
+          "v": "đến",
+          "a": "b56f36b529dbcd62"
+        },
+        {
+          "h": "从",
+          "p": "cóng",
+          "v": "từ",
+          "a": "2719a8ea304b8cbf"
+        }
+      ],
+      "sentence": {
+        "h": "从这里到机场怎么去？我坐出租车去。",
+        "p": "Cóng zhèlǐ dào jīchǎng zěnme qù? Wǒ zuò chūzūchē qù.",
+        "v": "Từ đây đến sân bay đi thế nào? Tôi đi taxi.",
+        "a": "0ef0b9205611bae9"
+      }
+    },
+    {
+      "title": "Sinh hoạt hằng ngày",
+      "note": "Cấu trúc thời gian + hành động giúp kể lịch ngày. 先...再... là trước... rồi... Dùng mẫu đơn giản rồi thêm giờ cụ thể.",
+      "words": [
+        {
+          "h": "起床",
+          "p": "qǐchuáng",
+          "v": "thức dậy",
+          "a": "96f512f980046bf6"
+        },
+        {
+          "h": "睡觉",
+          "p": "shuìjiào",
+          "v": "ngủ",
+          "a": "b38a4b4c3335f2d4"
+        },
+        {
+          "h": "上班",
+          "p": "shàngbān",
+          "v": "đi làm",
+          "a": "fbb0f7cc70d4bb48"
+        },
+        {
+          "h": "下班",
+          "p": "xiàbān",
+          "v": "tan làm",
+          "a": "e3d3afd884be213e"
+        },
+        {
+          "h": "工作",
+          "p": "gōngzuò",
+          "v": "công việc / làm việc",
+          "a": "bc62d1b6b936c78d"
+        },
+        {
+          "h": "休息",
+          "p": "xiūxi",
+          "v": "nghỉ ngơi",
+          "a": "fff33732fc978a09"
+        },
+        {
+          "h": "洗",
+          "p": "xǐ",
+          "v": "rửa",
+          "a": "b2d7b4bbf6bcf133"
+        },
+        {
+          "h": "看",
+          "p": "kàn",
+          "v": "xem / đọc",
+          "a": "61f43315f98a4b16"
+        },
+        {
+          "h": "听",
+          "p": "tīng",
+          "v": "nghe",
+          "a": "1f2eb2608d236247"
+        },
+        {
+          "h": "读",
+          "p": "dú",
+          "v": "đọc",
+          "a": "7c7a3cda2cb67d69"
+        },
+        {
+          "h": "写",
+          "p": "xiě",
+          "v": "viết",
+          "a": "eecaf7bb139f9c37"
+        },
+        {
+          "h": "做",
+          "p": "zuò",
+          "v": "làm",
+          "a": "94f5404441e8c480"
+        }
+      ],
+      "sentence": {
+        "h": "我早上六点起床，晚上十点睡觉。",
+        "p": "Wǒ zǎoshang liù diǎn qǐchuáng, wǎnshang shí diǎn shuìjiào.",
+        "v": "Tôi dậy lúc 6 giờ sáng, ngủ lúc 10 giờ tối.",
+        "a": "c8e941a9e6781200"
+      }
+    },
+    {
+      "title": "Công việc và học tập",
+      "note": "会 + động từ chỉ kỹ năng đã học. 能 thường nói khả năng do điều kiện. 一点儿 dùng nói biết một chút. 我不会... không biết làm...",
+      "words": [
+        {
+          "h": "公司",
+          "p": "gōngsī",
+          "v": "công ty",
+          "a": "e06ff957ed48e868"
+        },
+        {
+          "h": "同事",
+          "p": "tóngshì",
+          "v": "đồng nghiệp",
+          "a": "6ae62af4619f6486"
+        },
+        {
+          "h": "学校",
+          "p": "xuéxiào",
+          "v": "trường học",
+          "a": "dc6e2aafeb9e125b"
+        },
+        {
+          "h": "电脑",
+          "p": "diànnǎo",
+          "v": "máy tính",
+          "a": "d48f1dcf88d2ca0d"
+        },
+        {
+          "h": "手机",
+          "p": "shǒujī",
+          "v": "điện thoại",
+          "a": "2e07333c8c740978"
+        },
+        {
+          "h": "会",
+          "p": "huì",
+          "v": "biết làm",
+          "a": "5ba1e3c0eb636161"
+        },
+        {
+          "h": "能",
+          "p": "néng",
+          "v": "có thể",
+          "a": "413c06bcef7c934d"
+        },
+        {
+          "h": "说",
+          "p": "shuō",
+          "v": "nói",
+          "a": "ccca74461399d2a0"
+        },
+        {
+          "h": "汉语",
+          "p": "Hànyǔ",
+          "v": "tiếng Hán",
+          "a": "65312c5c6c2213db"
+        },
+        {
+          "h": "问题",
+          "p": "wèntí",
+          "v": "câu hỏi / vấn đề",
+          "a": "33a8618cb6710e43"
+        },
+        {
+          "h": "明白",
+          "p": "míngbai",
+          "v": "hiểu",
+          "a": "8e37cd5f7f76c831"
+        },
+        {
+          "h": "帮助",
+          "p": "bāngzhù",
+          "v": "giúp đỡ",
+          "a": "a57cfcb8428da408"
+        }
+      ],
+      "sentence": {
+        "h": "我在公司工作。我会说一点儿汉语。",
+        "p": "Wǒ zài gōngsī gōngzuò. Wǒ huì shuō yīdiǎnr Hànyǔ.",
+        "v": "Tôi làm việc ở công ty. Tôi biết nói một chút tiếng Trung.",
+        "a": "19494a88cf19c91e"
+      }
+    },
+    {
+      "title": "Sở thích",
+      "note": "喜欢 + danh từ hoặc động từ: thích... 不喜欢 là không thích. 和 nối các danh từ; không dùng để nối mọi mệnh đề như tiếng Việt.",
+      "words": [
+        {
+          "h": "喜欢",
+          "p": "xǐhuan",
+          "v": "thích",
+          "a": "653b04330b75751f"
+        },
+        {
+          "h": "爱",
+          "p": "ài",
+          "v": "yêu",
+          "a": "bafe3b2ee79f7c51"
+        },
+        {
+          "h": "运动",
+          "p": "yùndòng",
+          "v": "vận động",
+          "a": "a9d130d79595672c"
+        },
+        {
+          "h": "跑步",
+          "p": "pǎobù",
+          "v": "chạy bộ",
+          "a": "591052c733499bad"
+        },
+        {
+          "h": "游泳",
+          "p": "yóuyǒng",
+          "v": "bơi",
+          "a": "f864303afb4e4a85"
+        },
+        {
+          "h": "足球",
+          "p": "zúqiú",
+          "v": "bóng đá",
+          "a": "27a60fa44a5333bf"
+        },
+        {
+          "h": "音乐",
+          "p": "yīnyuè",
+          "v": "âm nhạc",
+          "a": "db95142124934467"
+        },
+        {
+          "h": "电影",
+          "p": "diànyǐng",
+          "v": "phim",
+          "a": "03a3a327af684099"
+        },
+        {
+          "h": "书",
+          "p": "shū",
+          "v": "sách",
+          "a": "1be968f125240969"
+        },
+        {
+          "h": "钓鱼",
+          "p": "diàoyú",
+          "v": "câu cá",
+          "a": "0147dc31ac1357bf"
+        },
+        {
+          "h": "和",
+          "p": "hé",
+          "v": "và",
+          "a": "3d7114281f5b59d9"
+        },
+        {
+          "h": "一起",
+          "p": "yīqǐ",
+          "v": "cùng nhau",
+          "a": "220ac6c5a3602b71"
+        }
+      ],
+      "sentence": {
+        "h": "我喜欢钓鱼，也喜欢看电影。",
+        "p": "Wǒ xǐhuan diàoyú, yě xǐhuan kàn diànyǐng.",
+        "v": "Tôi thích câu cá, cũng thích xem phim.",
+        "a": "9d22ae359415d047"
+      }
+    },
+    {
+      "title": "Thời tiết",
+      "note": "今天很热 nói thời tiết hôm nay. Trong câu tính từ, 很 thường giúp câu tự nhiên, không luôn mang nghĩa rất mạnh. 会 có thể chỉ khả năng xảy ra.",
+      "words": [
+        {
+          "h": "天气",
+          "p": "tiānqì",
+          "v": "thời tiết",
+          "a": "4d947325473f5b57"
+        },
+        {
+          "h": "热",
+          "p": "rè",
+          "v": "nóng",
+          "a": "312490eda9072580"
+        },
+        {
+          "h": "冷",
+          "p": "lěng",
+          "v": "lạnh",
+          "a": "6e87e42fbc222f49"
+        },
+        {
+          "h": "下雨",
+          "p": "xiàyǔ",
+          "v": "mưa",
+          "a": "024b2708ed8e3ffc"
+        },
+        {
+          "h": "下雪",
+          "p": "xiàxuě",
+          "v": "tuyết rơi",
+          "a": "8f92983d8b1f7638"
+        },
+        {
+          "h": "晴天",
+          "p": "qíngtiān",
+          "v": "trời nắng",
+          "a": "3efc6babe61903ce"
+        },
+        {
+          "h": "风",
+          "p": "fēng",
+          "v": "gió",
+          "a": "be65bd5518aedced"
+        },
+        {
+          "h": "夏天",
+          "p": "xiàtiān",
+          "v": "mùa hè",
+          "a": "0c27fe7382e1aac3"
+        },
+        {
+          "h": "冬天",
+          "p": "dōngtiān",
+          "v": "mùa đông",
+          "a": "7a6cc29740a72c4c"
+        },
+        {
+          "h": "暖和",
+          "p": "nuǎnhuo",
+          "v": "ấm",
+          "a": "5c8f68d1574b48bb"
+        },
+        {
+          "h": "凉快",
+          "p": "liángkuai",
+          "v": "mát",
+          "a": "b640ad963c78d70d"
+        },
+        {
+          "h": "怎么样",
+          "p": "zěnmeyàng",
+          "v": "thế nào",
+          "a": "60067e7ac645088b"
+        }
+      ],
+      "sentence": {
+        "h": "今天天气怎么样？很热，明天会下雨。",
+        "p": "Jīntiān tiānqì zěnmeyàng? Hěn rè, míngtiān huì xiàyǔ.",
+        "v": "Hôm nay thời tiết thế nào? Nóng, ngày mai có thể mưa.",
+        "a": "19e8cff2474af6ce"
+      }
+    },
+    {
+      "title": "Sức khỏe",
+      "note": "我...不舒服 nói cảm giác khó chịu. ...疼 là đau... 需要 + danh từ/động từ nói nhu cầu. Luyện ngôn ngữ, không dùng bài này để tự chẩn đoán.",
+      "words": [
+        {
+          "h": "身体",
+          "p": "shēntǐ",
+          "v": "cơ thể",
+          "a": "4729deedde2a0710"
+        },
+        {
+          "h": "头",
+          "p": "tóu",
+          "v": "đầu",
+          "a": "5f64ab008929fdb5"
+        },
+        {
+          "h": "眼睛",
+          "p": "yǎnjing",
+          "v": "mắt",
+          "a": "9069cc8f2c62b4b4"
+        },
+        {
+          "h": "手",
+          "p": "shǒu",
+          "v": "tay",
+          "a": "48e3a023f8997977"
+        },
+        {
+          "h": "肚子",
+          "p": "dùzi",
+          "v": "bụng",
+          "a": "460aab4222452c4d"
+        },
+        {
+          "h": "疼",
+          "p": "téng",
+          "v": "đau",
+          "a": "b1e179f5622eeea5"
+        },
+        {
+          "h": "不舒服",
+          "p": "bù shūfu",
+          "v": "khó chịu",
+          "a": "bc91c3832c6c4fcb"
+        },
+        {
+          "h": "医生",
+          "p": "yīshēng",
+          "v": "bác sĩ",
+          "a": "e8ec877c8da553d3"
+        },
+        {
+          "h": "医院",
+          "p": "yīyuàn",
+          "v": "bệnh viện",
+          "a": "1f6835c0d878fa0e"
+        },
+        {
+          "h": "药",
+          "p": "yào",
+          "v": "thuốc",
+          "a": "b0c89b2ff5b84327"
+        },
+        {
+          "h": "生病",
+          "p": "shēngbìng",
+          "v": "bị bệnh",
+          "a": "a37fff0c9f7322e2"
+        },
+        {
+          "h": "需要",
+          "p": "xūyào",
+          "v": "cần",
+          "a": "c9e9a062f5d588f3"
+        }
+      ],
+      "sentence": {
+        "h": "我今天不舒服，头疼。我需要休息。",
+        "p": "Wǒ jīntiān bù shūfu, tóu téng. Wǒ xūyào xiūxi.",
+        "v": "Hôm nay tôi không khỏe, đau đầu. Tôi cần nghỉ.",
+        "a": "88d96ac528322471"
+      }
+    },
+    {
+      "title": "Nhà ở và đồ vật",
+      "note": "Số + lượng từ + danh từ: 一本书、一张桌子. 有 chỉ tồn tại/sở hữu; 在 chỉ vị trí. 桌子上有一本书: có một cuốn sách trên bàn.",
+      "words": [
+        {
+          "h": "房间",
+          "p": "fángjiān",
+          "v": "phòng",
+          "a": "96b2d406041bbf38"
+        },
+        {
+          "h": "桌子",
+          "p": "zhuōzi",
+          "v": "bàn",
+          "a": "306de547695f668d"
+        },
+        {
+          "h": "椅子",
+          "p": "yǐzi",
+          "v": "ghế",
+          "a": "e57f49ca9c8120c9"
+        },
+        {
+          "h": "床",
+          "p": "chuáng",
+          "v": "giường",
+          "a": "5cfd73078e3aaf3f"
+        },
+        {
+          "h": "门",
+          "p": "mén",
+          "v": "cửa",
+          "a": "a407325e0081cb7d"
+        },
+        {
+          "h": "窗户",
+          "p": "chuānghu",
+          "v": "cửa sổ",
+          "a": "da098a22509a9187"
+        },
+        {
+          "h": "灯",
+          "p": "dēng",
+          "v": "đèn",
+          "a": "28656d470286ce04"
+        },
+        {
+          "h": "本",
+          "p": "běn",
+          "v": "lượng từ sách",
+          "a": "83831c3f910cf940"
+        },
+        {
+          "h": "张",
+          "p": "zhāng",
+          "v": "lượng từ vật phẳng",
+          "a": "f56a049fcc23f1eb"
+        },
+        {
+          "h": "上",
+          "p": "shàng",
+          "v": "trên",
+          "a": "db5ba671d244ee82"
+        },
+        {
+          "h": "下",
+          "p": "xià",
+          "v": "dưới",
+          "a": "13c12b064b635e06"
+        },
+        {
+          "h": "干净",
+          "p": "gānjìng",
+          "v": "sạch",
+          "a": "535f2282f8c05490"
+        }
+      ],
+      "sentence": {
+        "h": "桌子上有一本书。我的房间很干净。",
+        "p": "Zhuōzi shàng yǒu yī běn shū. Wǒ de fángjiān hěn gānjìng.",
+        "v": "Trên bàn có một cuốn sách. Phòng tôi rất sạch.",
+        "a": "cc1acbb321dbe52a"
+      }
+    },
+    {
+      "title": "Màu sắc và quần áo",
+      "note": "Tính từ + 的 + danh từ, như 红色的衣服. 穿 nói mặc quần áo; 戴 dùng phụ kiện. 件 là lượng từ thường gặp cho áo.",
+      "words": [
+        {
+          "h": "衣服",
+          "p": "yīfu",
+          "v": "quần áo",
+          "a": "3a28422f1f71d7f5"
+        },
+        {
+          "h": "裤子",
+          "p": "kùzi",
+          "v": "quần",
+          "a": "0232c7b8321b0349"
+        },
+        {
+          "h": "鞋",
+          "p": "xié",
+          "v": "giày",
+          "a": "bf55fac9c5cf853b"
+        },
+        {
+          "h": "红色",
+          "p": "hóngsè",
+          "v": "màu đỏ",
+          "a": "789f61dbfcc7a2d2"
+        },
+        {
+          "h": "白色",
+          "p": "báisè",
+          "v": "màu trắng",
+          "a": "f56e7eff58bf730d"
+        },
+        {
+          "h": "黑色",
+          "p": "hēisè",
+          "v": "màu đen",
+          "a": "ed7d2c54184be5f5"
+        },
+        {
+          "h": "蓝色",
+          "p": "lánsè",
+          "v": "màu xanh lam",
+          "a": "67035e6b7f82acdb"
+        },
+        {
+          "h": "大",
+          "p": "dà",
+          "v": "to",
+          "a": "7d4ca7f48effd602"
+        },
+        {
+          "h": "小",
+          "p": "xiǎo",
+          "v": "nhỏ",
+          "a": "6a7339bb759788f3"
+        },
+        {
+          "h": "穿",
+          "p": "chuān",
+          "v": "mặc",
+          "a": "9fdbcf44709512bd"
+        },
+        {
+          "h": "件",
+          "p": "jiàn",
+          "v": "lượng từ áo / việc",
+          "a": "7c00255577088ec9"
+        },
+        {
+          "h": "新",
+          "p": "xīn",
+          "v": "mới",
+          "a": "3cc493bc5b3b9b51"
+        }
+      ],
+      "sentence": {
+        "h": "我想买一件蓝色的衣服。这件太大了。",
+        "p": "Wǒ xiǎng mǎi yī jiàn lánsè de yīfu. Zhè jiàn tài dà le.",
+        "v": "Tôi muốn mua một chiếc áo màu xanh lam. Chiếc này quá to.",
+        "a": "3418b0aa2439d79a"
+      }
+    },
+    {
+      "title": "Hẹn gặp và lời mời",
+      "note": "我们一起...吧 là lời đề nghị. 可以吗？ hỏi có được không. 有空 không phải có chỗ trống, mà là có thời gian rảnh.",
+      "words": [
+        {
+          "h": "我们",
+          "p": "wǒmen",
+          "v": "chúng tôi / chúng ta",
+          "a": "bcacb40df81b94b7"
+        },
+        {
+          "h": "你们",
+          "p": "nǐmen",
+          "v": "các bạn",
+          "a": "8a5d477bdaf612a9"
+        },
+        {
+          "h": "他们",
+          "p": "tāmen",
+          "v": "họ",
+          "a": "10518f8f0abf21a3"
+        },
+        {
+          "h": "有空",
+          "p": "yǒu kòng",
+          "v": "rảnh",
+          "a": "f973d5ac51a2c220"
+        },
+        {
+          "h": "忙",
+          "p": "máng",
+          "v": "bận",
+          "a": "963e4f4abf641ba9"
+        },
+        {
+          "h": "见面",
+          "p": "jiànmiàn",
+          "v": "gặp mặt",
+          "a": "65a7e6d1d31fc4b9"
+        },
+        {
+          "h": "等",
+          "p": "děng",
+          "v": "đợi",
+          "a": "385a845b6094b687"
+        },
+        {
+          "h": "可以",
+          "p": "kěyǐ",
+          "v": "có thể / được phép",
+          "a": "0ef5c86fab94f13a"
+        },
+        {
+          "h": "吧",
+          "p": "ba",
+          "v": "trợ từ đề nghị",
+          "a": "bad8b6c7ae2ee84b"
+        },
+        {
+          "h": "打电话",
+          "p": "dǎ diànhuà",
+          "v": "gọi điện",
+          "a": "7f9dc03c7fdc818e"
+        },
+        {
+          "h": "周末",
+          "p": "zhōumò",
+          "v": "cuối tuần",
+          "a": "709b90ebf308c71e"
+        },
+        {
+          "h": "时候",
+          "p": "shíhou",
+          "v": "lúc",
+          "a": "5484678be4ef7c24"
+        }
+      ],
+      "sentence": {
+        "h": "你周末有空吗？我们一起吃饭吧。",
+        "p": "Nǐ zhōumò yǒu kòng ma? Wǒmen yīqǐ chīfàn ba.",
+        "v": "Cuối tuần bạn rảnh không? Chúng ta cùng ăn cơm nhé.",
+        "a": "2b2e66f0a3cbe37b"
+      }
+    },
+    {
+      "title": "Du lịch và khách sạn",
+      "note": "想 + động từ diễn đạt mong muốn. 住 + khoảng thời gian: ở bao lâu. 请帮我... xin giúp tôi... 几天 hỏi mấy ngày.",
+      "words": [
+        {
+          "h": "旅游",
+          "p": "lǚyóu",
+          "v": "du lịch",
+          "a": "c8bf3f878e389b57"
+        },
+        {
+          "h": "酒店",
+          "p": "jiǔdiàn",
+          "v": "khách sạn",
+          "a": "59322eebea9442a1"
+        },
+        {
+          "h": "住",
+          "p": "zhù",
+          "v": "ở",
+          "a": "cbba0a98abd10ccc"
+        },
+        {
+          "h": "护照",
+          "p": "hùzhào",
+          "v": "hộ chiếu",
+          "a": "d24f1b9e50c3d3c8"
+        },
+        {
+          "h": "票",
+          "p": "piào",
+          "v": "vé",
+          "a": "f7f6ebe84bfee267"
+        },
+        {
+          "h": "飞机",
+          "p": "fēijī",
+          "v": "máy bay",
+          "a": "c05f7cd6ed3587a2"
+        },
+        {
+          "h": "火车",
+          "p": "huǒchē",
+          "v": "tàu hỏa",
+          "a": "228e2ed446e684a3"
+        },
+        {
+          "h": "行李",
+          "p": "xíngli",
+          "v": "hành lý",
+          "a": "48169ad8cbbb838d"
+        },
+        {
+          "h": "天",
+          "p": "tiān",
+          "v": "ngày",
+          "a": "49da61ceeea2f271"
+        },
+        {
+          "h": "找",
+          "p": "zhǎo",
+          "v": "tìm",
+          "a": "c277be8a4b92ee42"
+        },
+        {
+          "h": "预订",
+          "p": "yùdìng",
+          "v": "đặt trước",
+          "a": "a0170dc9aafae25e"
+        },
+        {
+          "h": "房子",
+          "p": "fángzi",
+          "v": "nhà",
+          "a": "a38b0657f4edcfea"
+        }
+      ],
+      "sentence": {
+        "h": "我想预订一个房间，住两天。",
+        "p": "Wǒ xiǎng yùdìng yī ge fángjiān, zhù liǎng tiān.",
+        "v": "Tôi muốn đặt trước một phòng, ở hai ngày.",
+        "a": "24c1802c330aa2e1"
+      }
+    },
+    {
+      "title": "Việc đã làm",
+      "note": "Động từ + 了 có thể chỉ sự hoàn thành; không tự động tương đương mọi thì quá khứ. 没有 + động từ phủ định việc đã xảy ra, thường bỏ 了.",
+      "words": [
+        {
+          "h": "了",
+          "p": "le",
+          "v": "trợ từ hoàn thành / thay đổi",
+          "a": "b2dd27e84f07f49b"
+        },
+        {
+          "h": "没",
+          "p": "méi",
+          "v": "chưa / không đã",
+          "a": "279e8b3573607d17"
+        },
+        {
+          "h": "已经",
+          "p": "yǐjīng",
+          "v": "đã",
+          "a": "8ee12e2310d9f000"
+        },
+        {
+          "h": "昨天晚上",
+          "p": "zuótiān wǎnshang",
+          "v": "tối hôm qua",
+          "a": "4c3baaa0f285c8cb"
+        },
+        {
+          "h": "早饭",
+          "p": "zǎofàn",
+          "v": "bữa sáng",
+          "a": "2504ff16dd4cce10"
+        },
+        {
+          "h": "午饭",
+          "p": "wǔfàn",
+          "v": "bữa trưa",
+          "a": "dac152a147729f3f"
+        },
+        {
+          "h": "晚饭",
+          "p": "wǎnfàn",
+          "v": "bữa tối",
+          "a": "5a5420f01e11d0bc"
+        },
+        {
+          "h": "以后",
+          "p": "yǐhòu",
+          "v": "sau này / sau khi",
+          "a": "e6ad7a1dbc1ede22"
+        },
+        {
+          "h": "以前",
+          "p": "yǐqián",
+          "v": "trước đây",
+          "a": "aa98317793b49d8d"
+        },
+        {
+          "h": "回来",
+          "p": "huílái",
+          "v": "trở về đây",
+          "a": "b3ab908cef2352cd"
+        },
+        {
+          "h": "看见",
+          "p": "kànjiàn",
+          "v": "nhìn thấy",
+          "a": "7205426737a8c37c"
+        },
+        {
+          "h": "完",
+          "p": "wán",
+          "v": "xong",
+          "a": "28e0bba69ee9141a"
+        }
+      ],
+      "sentence": {
+        "h": "我已经吃了晚饭。昨天我没去公司。",
+        "p": "Wǒ yǐjīng chī le wǎnfàn. Zuótiān wǒ méi qù gōngsī.",
+        "v": "Tôi đã ăn tối. Hôm qua tôi không đến công ty.",
+        "a": "d18710cb476c7c59"
+      }
+    },
+    {
+      "title": "Kế hoạch và mong muốn",
+      "note": "打算 + động từ là dự định. 因为...所以...: bởi vì...nên... Đặt thời gian trước hành động và chọn một kế hoạch thật để kể.",
+      "words": [
+        {
+          "h": "打算",
+          "p": "dǎsuàn",
+          "v": "dự định",
+          "a": "1ce151dd62de4dd1"
+        },
+        {
+          "h": "希望",
+          "p": "xīwàng",
+          "v": "hy vọng",
+          "a": "352df4d7086fcdb1"
+        },
+        {
+          "h": "准备",
+          "p": "zhǔnbèi",
+          "v": "chuẩn bị",
+          "a": "ddcf6e77b0ee1000"
+        },
+        {
+          "h": "下星期",
+          "p": "xià xīngqī",
+          "v": "tuần sau",
+          "a": "97b102f681afff47"
+        },
+        {
+          "h": "明年",
+          "p": "míngnián",
+          "v": "năm sau",
+          "a": "02b511cea0c378ed"
+        },
+        {
+          "h": "再",
+          "p": "zài",
+          "v": "lại trong tương lai",
+          "a": "8aa07f1595bd98d4"
+        },
+        {
+          "h": "先",
+          "p": "xiān",
+          "v": "trước",
+          "a": "27250da81c0a763a"
+        },
+        {
+          "h": "然后",
+          "p": "ránhòu",
+          "v": "sau đó",
+          "a": "ca4f5ee82e28628d"
+        },
+        {
+          "h": "因为",
+          "p": "yīnwèi",
+          "v": "bởi vì",
+          "a": "795cfc96d4b55db7"
+        },
+        {
+          "h": "所以",
+          "p": "suǒyǐ",
+          "v": "vì vậy",
+          "a": "a2f7e42081a8eb13"
+        },
+        {
+          "h": "但是",
+          "p": "dànshì",
+          "v": "nhưng",
+          "a": "8cb1f721c82e7933"
+        },
+        {
+          "h": "为什么",
+          "p": "wèishénme",
+          "v": "tại sao",
+          "a": "1b919bb47883c5cf"
+        }
+      ],
+      "sentence": {
+        "h": "我打算下星期去旅游，所以现在准备行李。",
+        "p": "Wǒ dǎsuàn xià xīngqī qù lǚyóu, suǒyǐ xiànzài zhǔnbèi xíngli.",
+        "v": "Tôi dự định đi du lịch tuần sau nên giờ chuẩn bị hành lý.",
+        "a": "2460f1742effcc06"
+      }
+    },
+    {
+      "title": "So sánh và mô tả",
+      "note": "A 比 B + tính từ: A ... hơn B. 不要 đặt 很 trước tính từ trong mẫu so sánh đơn giản. 有一点儿... hơi... thường dùng với nhận xét không mong muốn.",
+      "words": [
+        {
+          "h": "比",
+          "p": "bǐ",
+          "v": "hơn trong so sánh",
+          "a": "ab158a8483c3b86e"
+        },
+        {
+          "h": "高",
+          "p": "gāo",
+          "v": "cao",
+          "a": "b1c27820fec23edb"
+        },
+        {
+          "h": "矮",
+          "p": "ǎi",
+          "v": "thấp",
+          "a": "6e8ab5cc6e7855ab"
+        },
+        {
+          "h": "长",
+          "p": "cháng",
+          "v": "dài",
+          "a": "597ae23d84d4eac2"
+        },
+        {
+          "h": "短",
+          "p": "duǎn",
+          "v": "ngắn",
+          "a": "4ca8d4f77574e43a"
+        },
+        {
+          "h": "快",
+          "p": "kuài",
+          "v": "nhanh",
+          "a": "2846d63055754517"
+        },
+        {
+          "h": "慢",
+          "p": "màn",
+          "v": "chậm",
+          "a": "42269e2627f4916c"
+        },
+        {
+          "h": "多",
+          "p": "duō",
+          "v": "nhiều",
+          "a": "1940119f05716460"
+        },
+        {
+          "h": "少",
+          "p": "shǎo",
+          "v": "ít",
+          "a": "62f99c9a0c50d790"
+        },
+        {
+          "h": "远",
+          "p": "yuǎn",
+          "v": "xa",
+          "a": "057c8f784250d8dd"
+        },
+        {
+          "h": "近",
+          "p": "jìn",
+          "v": "gần",
+          "a": "03aeb7c768b4cb8e"
+        },
+        {
+          "h": "有一点儿",
+          "p": "yǒu yīdiǎnr",
+          "v": "hơi",
+          "a": "3b7c9f8768f937a4"
+        }
+      ],
+      "sentence": {
+        "h": "这家商店比那家近。这件衣服有一点儿贵。",
+        "p": "Zhè jiā shāngdiàn bǐ nà jiā jìn. Zhè jiàn yīfu yǒu yīdiǎnr guì.",
+        "v": "Cửa hàng này gần hơn cửa hàng kia. Áo này hơi đắt.",
+        "a": "3b91f64c1dd02dc7"
+      }
+    },
+    {
+      "title": "Hội thoại xử lý tình huống",
+      "note": "听不懂 là nghe không hiểu; 请再说一遍 xin nói lại một lần. 慢一点儿 chậm hơn chút. Đặt câu hỏi khi chưa hiểu, thay vì chỉ nói 是.",
+      "words": [
+        {
+          "h": "听不懂",
+          "p": "tīng bu dǒng",
+          "v": "nghe không hiểu",
+          "a": "8fddb81929da87fb"
+        },
+        {
+          "h": "再说一遍",
+          "p": "zài shuō yī biàn",
+          "v": "nói lại một lần",
+          "a": "d4cbf71890c24a16"
+        },
+        {
+          "h": "慢一点儿",
+          "p": "màn yīdiǎnr",
+          "v": "chậm hơn một chút",
+          "a": "0731d7275b3111f7"
+        },
+        {
+          "h": "意思",
+          "p": "yìsi",
+          "v": "ý nghĩa",
+          "a": "65eb352d08bf12a0"
+        },
+        {
+          "h": "怎么说",
+          "p": "zěnme shuō",
+          "v": "nói thế nào",
+          "a": "24a975a7400ad987"
+        },
+        {
+          "h": "对",
+          "p": "duì",
+          "v": "đúng",
+          "a": "74570c72706a38b1"
+        },
+        {
+          "h": "错",
+          "p": "cuò",
+          "v": "sai",
+          "a": "4529e7c8cde40d06"
+        },
+        {
+          "h": "知道",
+          "p": "zhīdào",
+          "v": "biết",
+          "a": "d7b6472b11240bd2"
+        },
+        {
+          "h": "忘记",
+          "p": "wàngjì",
+          "v": "quên",
+          "a": "73b08832981088d3"
+        },
+        {
+          "h": "记得",
+          "p": "jìde",
+          "v": "nhớ",
+          "a": "805b2ab19aaa8f37"
+        },
+        {
+          "h": "没问题",
+          "p": "méi wèntí",
+          "v": "không vấn đề",
+          "a": "909009a4821ef09e"
+        },
+        {
+          "h": "请帮我",
+          "p": "qǐng bāng wǒ",
+          "v": "xin giúp tôi",
+          "a": "9e6303859512e321"
+        }
+      ],
+      "sentence": {
+        "h": "对不起，我听不懂。请再说一遍，慢一点儿。",
+        "p": "Duìbuqǐ, wǒ tīng bu dǒng. Qǐng zài shuō yī biàn, màn yīdiǎnr.",
+        "v": "Xin lỗi, tôi nghe không hiểu. Xin nói lại một lần, chậm hơn chút.",
+        "a": "2d30d3c9951502e3"
+      }
+    },
+    {
+      "title": "Tổng ôn và tự giới thiệu",
+      "note": "Ghép lời chào, tên, quốc tịch, công việc, gia đình, sở thích và kế hoạch thành đoạn 60–90 giây. Kiểm tra tích lũy dùng từ tất cả các tuần, không chỉ tuần cuối.",
+      "words": [
+        {
+          "h": "介绍",
+          "p": "jièshào",
+          "v": "giới thiệu",
+          "a": "66a66f52a2b114b5"
+        },
+        {
+          "h": "自己",
+          "p": "zìjǐ",
+          "v": "bản thân",
+          "a": "fb43354d2aaece51"
+        },
+        {
+          "h": "练习",
+          "p": "liànxí",
+          "v": "luyện tập",
+          "a": "3cae1f75ef711370"
+        },
+        {
+          "h": "复习",
+          "p": "fùxí",
+          "v": "ôn tập",
+          "a": "00f0efe7948e1549"
+        },
+        {
+          "h": "考试",
+          "p": "kǎoshì",
+          "v": "kiểm tra",
+          "a": "d26ef0190d6ccf8b"
+        },
+        {
+          "h": "进步",
+          "p": "jìnbù",
+          "v": "tiến bộ",
+          "a": "3cd4b73afa842451"
+        },
+        {
+          "h": "继续",
+          "p": "jìxù",
+          "v": "tiếp tục",
+          "a": "7c9691192f1b7340"
+        },
+        {
+          "h": "努力",
+          "p": "nǔlì",
+          "v": "cố gắng",
+          "a": "abe26aa668de1e20"
+        },
+        {
+          "h": "每天晚上",
+          "p": "měitiān wǎnshang",
+          "v": "mỗi tối",
+          "a": "6a4fdf8306f94dfd"
+        },
+        {
+          "h": "有意思",
+          "p": "yǒu yìsi",
+          "v": "thú vị",
+          "a": "892c00b426951bb1"
+        },
+        {
+          "h": "容易",
+          "p": "róngyì",
+          "v": "dễ",
+          "a": "2d945fb37d9aeb26"
+        },
+        {
+          "h": "难",
+          "p": "nán",
+          "v": "khó",
+          "a": "de73e9045636fb33"
+        }
+      ],
+      "sentence": {
+        "h": "我每天学习中文。我喜欢学习，也喜欢钓鱼。我会继续努力。",
+        "p": "Wǒ měitiān xuéxí Zhōngwén. Wǒ xǐhuan xuéxí, yě xǐhuan diàoyú. Wǒ huì jìxù nǔlì.",
+        "v": "Tôi học tiếng Trung mỗi ngày. Tôi thích học và thích câu cá. Tôi sẽ tiếp tục cố gắng.",
+        "a": "9535b9cdd7333923"
+      }
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "week": 0,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 2,
+      "week": 0,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 3,
+      "week": 0,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 4,
+      "week": 0,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 5,
+      "week": 0,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 6,
+      "week": 0,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 7,
+      "week": 0,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 8,
+      "week": 1,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 9,
+      "week": 1,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 10,
+      "week": 1,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 11,
+      "week": 1,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 12,
+      "week": 1,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 13,
+      "week": 1,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 14,
+      "week": 1,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 15,
+      "week": 2,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 16,
+      "week": 2,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 17,
+      "week": 2,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 18,
+      "week": 2,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 19,
+      "week": 2,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 20,
+      "week": 2,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 21,
+      "week": 2,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 22,
+      "week": 3,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 23,
+      "week": 3,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 24,
+      "week": 3,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 25,
+      "week": 3,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 26,
+      "week": 3,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 27,
+      "week": 3,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 28,
+      "week": 3,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 29,
+      "week": 4,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 30,
+      "week": 4,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 31,
+      "week": 4,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 32,
+      "week": 4,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 33,
+      "week": 4,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 34,
+      "week": 4,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 35,
+      "week": 4,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 36,
+      "week": 5,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 37,
+      "week": 5,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 38,
+      "week": 5,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 39,
+      "week": 5,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 40,
+      "week": 5,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 41,
+      "week": 5,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 42,
+      "week": 5,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 43,
+      "week": 6,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 44,
+      "week": 6,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 45,
+      "week": 6,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 46,
+      "week": 6,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 47,
+      "week": 6,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 48,
+      "week": 6,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 49,
+      "week": 6,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 50,
+      "week": 7,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 51,
+      "week": 7,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 52,
+      "week": 7,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 53,
+      "week": 7,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 54,
+      "week": 7,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 55,
+      "week": 7,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 56,
+      "week": 7,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 57,
+      "week": 8,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 58,
+      "week": 8,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 59,
+      "week": 8,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 60,
+      "week": 8,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 61,
+      "week": 8,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 62,
+      "week": 8,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 63,
+      "week": 8,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 64,
+      "week": 9,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 65,
+      "week": 9,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 66,
+      "week": 9,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 67,
+      "week": 9,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 68,
+      "week": 9,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 69,
+      "week": 9,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 70,
+      "week": 9,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 71,
+      "week": 10,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 72,
+      "week": 10,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 73,
+      "week": 10,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 74,
+      "week": 10,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 75,
+      "week": 10,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 76,
+      "week": 10,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 77,
+      "week": 10,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 78,
+      "week": 11,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 79,
+      "week": 11,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 80,
+      "week": 11,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 81,
+      "week": 11,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 82,
+      "week": 11,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 83,
+      "week": 11,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 84,
+      "week": 11,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 85,
+      "week": 12,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 86,
+      "week": 12,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 87,
+      "week": 12,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 88,
+      "week": 12,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 89,
+      "week": 12,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 90,
+      "week": 12,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 91,
+      "week": 12,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 92,
+      "week": 13,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 93,
+      "week": 13,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 94,
+      "week": 13,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 95,
+      "week": 13,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 96,
+      "week": 13,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 97,
+      "week": 13,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 98,
+      "week": 13,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 99,
+      "week": 14,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 100,
+      "week": 14,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 101,
+      "week": 14,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 102,
+      "week": 14,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 103,
+      "week": 14,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 104,
+      "week": 14,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 105,
+      "week": 14,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 106,
+      "week": 15,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 107,
+      "week": 15,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 108,
+      "week": 15,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 109,
+      "week": 15,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 110,
+      "week": 15,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 111,
+      "week": 15,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 112,
+      "week": 15,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 113,
+      "week": 16,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 114,
+      "week": 16,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 115,
+      "week": 16,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 116,
+      "week": 16,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 117,
+      "week": 16,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 118,
+      "week": 16,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 119,
+      "week": 16,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 120,
+      "week": 17,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 121,
+      "week": 17,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 122,
+      "week": 17,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 123,
+      "week": 17,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 124,
+      "week": 17,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 125,
+      "week": 17,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 126,
+      "week": 17,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 127,
+      "week": 18,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 128,
+      "week": 18,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 129,
+      "week": 18,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 130,
+      "week": 18,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 131,
+      "week": 18,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 132,
+      "week": 18,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 133,
+      "week": 18,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 134,
+      "week": 19,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 135,
+      "week": 19,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 136,
+      "week": 19,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 137,
+      "week": 19,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 138,
+      "week": 19,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 139,
+      "week": 19,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 140,
+      "week": 19,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 141,
+      "week": 20,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 142,
+      "week": 20,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 143,
+      "week": 20,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 144,
+      "week": 20,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 145,
+      "week": 20,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 146,
+      "week": 20,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 147,
+      "week": 20,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 148,
+      "week": 21,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 149,
+      "week": 21,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 150,
+      "week": 21,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 151,
+      "week": 21,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 152,
+      "week": 21,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 153,
+      "week": 21,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 154,
+      "week": 21,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 155,
+      "week": 22,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 156,
+      "week": 22,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 157,
+      "week": 22,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 158,
+      "week": 22,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 159,
+      "week": 22,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 160,
+      "week": 22,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 161,
+      "week": 22,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 162,
+      "week": 23,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 163,
+      "week": 23,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 164,
+      "week": 23,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 165,
+      "week": 23,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 166,
+      "week": 23,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 167,
+      "week": 23,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 168,
+      "week": 23,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 169,
+      "week": 24,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 170,
+      "week": 24,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 171,
+      "week": 24,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 172,
+      "week": 24,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 173,
+      "week": 24,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 174,
+      "week": 24,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 175,
+      "week": 24,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    },
+    {
+      "day": 176,
+      "week": 25,
+      "phase": 0,
+      "title": "Từ mới và phát âm"
+    },
+    {
+      "day": 177,
+      "week": 25,
+      "phase": 1,
+      "title": "Nghe và phân biệt âm"
+    },
+    {
+      "day": 178,
+      "week": 25,
+      "phase": 2,
+      "title": "Từ mới và mẫu câu"
+    },
+    {
+      "day": 179,
+      "week": 25,
+      "phase": 3,
+      "title": "Nghe rồi trả lời"
+    },
+    {
+      "day": 180,
+      "week": 25,
+      "phase": 4,
+      "title": "Đọc và luyện viết"
+    },
+    {
+      "day": 181,
+      "week": 25,
+      "phase": 5,
+      "title": "Hội thoại và ghi âm"
+    },
+    {
+      "day": 182,
+      "week": 25,
+      "phase": 6,
+      "title": "Ôn tập và kiểm tra"
+    }
+  ],
+  "tasks": [
+    [
+      "Ôn 3 từ cũ (tuần đầu: nghe 4 thanh).",
+      "Học 6 từ đầu; nghe mỗi từ 3 lần.",
+      "Nghe mẫu câu, nhìn Pinyin rồi nhắc lại.",
+      "Tự nói 3 câu với từ mới, ghi âm.",
+      "Viết 2 chữ, quan sát thành phần chữ."
+    ],
+    [
+      "Che nghĩa, nhớ lại 6 từ đã học.",
+      "Đọc hướng dẫn tuần và đối chiếu Pinyin.",
+      "Làm bài nghe: nghe trước khi xem đáp án.",
+      "Ghi âm 6 từ, nghe lại và so với mẫu.",
+      "Viết 2 chữ và đọc thành tiếng."
+    ],
+    [
+      "Nhớ lại 6 từ đầu không nhìn nghĩa.",
+      "Học 6 từ còn lại, ghép với từ đã biết.",
+      "Nghe mẫu câu 3 lần, nhắc theo từng cụm.",
+      "Thay 2 thông tin trong mẫu bằng thông tin của mình.",
+      "Viết 2 chữ mới, tự đọc Pinyin."
+    ],
+    [
+      "Ôn đủ 12 từ của tuần.",
+      "Đọc mẫu câu và hiểu vị trí từ hỏi.",
+      "Nghe không nhìn chữ, nói lại điều hiểu được.",
+      "Đặt và trả lời 3 câu hỏi dựa trên chủ đề.",
+      "Gõ hoặc viết câu trả lời ngắn."
+    ],
+    [
+      "Đọc 12 chữ/từ và thử nhớ nghĩa.",
+      "Đọc mẫu câu, che Pinyin rồi đọc lại.",
+      "Nghe và kiểm tra cách đọc của mình.",
+      "Tự kể 3–5 câu về chủ đề tuần.",
+      "Luyện viết 2 chữ trên màn hình; tự so hình chữ."
+    ],
+    [
+      "Ôn từ còn khó và điểm kiểm tra cũ.",
+      "Soạn hội thoại 4–6 lượt dùng mẫu tuần.",
+      "Nghe mẫu và nhắc lại theo nhịp.",
+      "Ghi âm hội thoại; nghe lại, tự sửa 1 lỗi.",
+      "Viết 1 câu từ hội thoại."
+    ],
+    [
+      "Ôn từ sai của tuần.",
+      "Làm kiểm tra đọc và nghe, xem giải thích.",
+      "Nghe lại các mục trả lời sai.",
+      "Nói không nhìn mẫu 30–60 giây; tự đánh giá.",
+      "Viết 2 chữ và đánh dấu hoàn thành."
+    ]
+  ]
+}
