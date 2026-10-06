@@ -8,6 +8,8 @@ course=json.loads((root/'course.json').read_text())
 items={i['a']:i['h'] for w in course['weeks'] for i in [*w['words'],w['sentence']]}
 items.update({i['a']:i['h'] for i in course.get('vocabulary',[])})
 items.update({i['a']:i['h'] for lesson in course.get('grammar',[]) for i in lesson['examples']})
+dialogue_items={t['a']:t['h'] for d in course.get('dialogues',[]) for t in d['turns']}
+items.update(dialogue_items)
 out=root/'audio';out.mkdir(exist_ok=True)
 def generate(pair):
     key,text=pair;path=out/(key+'.mp3')
@@ -15,7 +17,7 @@ def generate(pair):
     for attempt in range(6):
         try:
             temp=path.with_suffix('.tmp')
-            gTTS(text=text,lang='zh-CN',slow=True,timeout=(15,45)).save(str(temp))
+            gTTS(text=text,lang='zh-CN',slow=(key not in dialogue_items),timeout=(15,45)).save(str(temp))
             assert temp.stat().st_size>100
             temp.replace(path);return
         except Exception:
@@ -24,3 +26,6 @@ def generate(pair):
 with ThreadPoolExecutor(max_workers=3) as pool:list(pool.map(generate,items.items()))
 assert all((out/(key+'.mp3')).stat().st_size>100 for key in items)
 print('Validated all',len(items),'offline audio files')
+
+from dialogue_audio import assemble
+assemble(course,out,root/'course.json')

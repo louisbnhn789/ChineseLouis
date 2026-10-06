@@ -36,6 +36,9 @@ jobs:
           restore-keys: |
             mandarin-gtts-v2-
             mandarin-gtts-v1-
+      - name: Ensure audio duration tools
+        run: |
+          command -v ffmpeg && command -v ffprobe || (sudo apt-get update -qq && sudo apt-get install -y ffmpeg)
       - name: Package offline Mandarin audio
         run: |
           pip install gTTS==2.5.4
@@ -63,12 +66,13 @@ jobs:
           names={i['a'] for w in data['weeks'] for i in [*w['words'],w['sentence']]}
           names.update(i['a'] for i in data['vocabulary'])
           names.update(i['a'] for lesson in data['grammar'] for i in lesson['examples'])
-          assert len(data['grammar']) == 40 and data['expansionCount'] == 1000
+          assert len(data['grammar']) == 48 and data['expansionCount'] == 1000
           assert len({x['h'] for x in data['vocabulary']}) == len(data['vocabulary'])
           with zipfile.ZipFile('app/build/outputs/apk/debug/app-debug.apk') as apk:
               assert all('assets/audio/'+n+'.mp3' in apk.namelist() for n in names)
               assert all(apk.getinfo('assets/audio/'+n+'.mp3').file_size > 100 for n in names)
           PY
+          python validate_release.py app/build/outputs/apk/debug/app-debug.apk
           cp app/build/outputs/apk/debug/app-debug.apk ChineseLouis.apk
       - uses: actions/upload-artifact@v4
         with:
